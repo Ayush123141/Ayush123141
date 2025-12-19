@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&lines=Hi+👋+I'm+Ayush;Full-Stack+Developer;IT+Engineering+Student;Building+solutions" />
+  <h1>👋 Hi, I'm Ayush Wadalkar</h1>
+  <h3>Full-Stack Developer | IT Engineering Student</h3>
+  <p><strong>Building innovative solutions with modern technologies</strong></p>
+</div>
 </div>
 
 <h2 align="center">Welcome to my GitHub! 🚀</h2>
