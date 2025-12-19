@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d4baf500bbc02f9857ca/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967675a5a6855754f4832303449507a2f67697068792e676966" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub;I+Build+Amazing+Things" alt="Welcome" />
 </div>
-
 <h1 align="center">Hi 👋, I'm Ayush Wadalkar</h1>
 <h3 align="center">Full-Stack Developer | IT Engineering Student | Open-Source Enthusiast</h3>
 
