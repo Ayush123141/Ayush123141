@@ -1,9 +1,20 @@
+<!-- Hero Section with Beautiful GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-006d-128dd5ee6c3b.gif" width="400px" alt="Coding animation" />
+</div>
+
 <div align="center">
   <h1>👋 Hi, I'm Ayush Wadalkar</h1>
-  <h3>Full-Stack Developer | IT Engineering Student</h3>
+  <h3>💻 Full-Stack Developer | 🎓 IT Engineering Student</h3>
   <p><strong>Building innovative solutions with modern technologies</strong></p>
+  <p>
+    <a href="https://linkedin.com/in/ayush-wadalkar">🔗 LinkedIn</a> • 
+    <a href="#">📧 Email</a> • 
+    <a href="#">🌐 Portfolio</a>
+  </p>
 </div>
-</div>
+
+---
 
 <h2 align="center">Welcome to my GitHub! 🚀</h2>
 
