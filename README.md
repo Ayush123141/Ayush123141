@@ -5,7 +5,7 @@
   <p>
     <a href="https://linkedin.com/in/ayush-wadalkar">🔗 LinkedIn</a> • 
     <a href="#">📧 Email</a> • 
-    <a href="https://ayushjsgsap.ccbp.tech/">🌐 Portfolio</a>  </p>
+    <a href="https://ayushwadalkar.ccbp.tech/">🌐 Portfolio</a>  </p>
 </div>
 
 ---
