@@ -1,128 +1,236 @@
+# 👋 Hi, I'm Ayush Wadalkar
+
 <div align="center">
-  <h1>👋 Hi, I'm Ayush Wadalkar</h1>
-  <h3>💻 Full-Stack Developer | 🎓 IT Engineering Student</h3>
-  <p><strong>Building innovative solutions with modern technologies</strong></p>
+  <h3>💻 Full-Stack Developer | 🤖 AI Enthusiast | 🎓 IT Engineering Student</h3>
+  <p><strong>Building meaningful products, exploring AI, and contributing to the developer community.</strong></p>
   <p>
-    <a href="https://linkedin.com/in/ayush-wadalkar">🔗 LinkedIn</a> • 
-    <a href="#">📧 Email</a> • 
-    <a href="https://ayushwadalkar.ccbp.tech/">🌐 Portfolio</a>  </p>
+    <a href="https://linkedin.com/in/ayush-wadalkar">LinkedIn</a> •
+    <a href="https://ayushjsgsap.ccbp.tech/">Portfolio</a> •
+    <a href="https://github.com/Ayush123141">GitHub</a>
+  </p>
 </div>
 
 ---
 
 <h2 align="center">Welcome to my GitHub! 🚀</h2>
 
-<!-- Profile Stats -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Status-Open%20to%20Opportunities-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Profile-Open%20to%20Opportunities-brightgreen?style=flat" />
   <img src="https://img.shields.io/badge/Location-India-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Experience-Learning%20%26%20Building-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20Source-Looking%20to%20Contribute-purple?style=flat" />
 </div>
 
 ---
 
-## 👋 **About Me**
+## 👨‍💻 About Me
 
-I'm **Ayush Wadalkar**, a passionate **Full-Stack Web Developer** and **IT Engineering Student** from India. I'm dedicated to building **scalable web applications** and exploring cutting-edge technologies. My journey is driven by:
+I'm **Ayush Wadalkar**, a Third-Year Information Technology Engineering student and aspiring **Full-Stack Developer** passionate about building scalable web applications and exploring AI-powered solutions.
 
-✨ **Building** - Creating meaningful projects with modern tech stacks  
-📚 **Learning** - Continuously mastering new technologies and best practices  
-🤝 **Contributing** - Engaging with the open-source community  
-💡 **Problem Solving** - Tackling complex challenges with clean, efficient code  
+I enjoy turning real-world problems into practical software products, experimenting with modern technologies, and continuously improving my development skills.
 
-I specialize in **JavaScript/Node.js backend development** and **React frontend** while maintaining strong fundamentals in **Data Structures & Algorithms**, **DBMS**, and **System Design**.
+✨ **Building:** Developing full-stack applications and AI-powered platforms.
 
----
+🤖 **Exploring AI:** Integrating LLMs and intelligent capabilities into real-world applications.
 
-## 🎓 **Education & Background**
+🤝 **Open Source:** Looking for opportunities to contribute to meaningful open-source projects and collaborate with developers.
 
-**Information Technology Engineering Student** 🏫  
-- Strong foundation in Data Structures & Algorithms
-- Deep knowledge of DBMS, Networking, and Operating Systems
-- Proficient in multiple programming languages (JavaScript, Python, Java, SQL)
-- Preparing for technical interviews and competitive programming
+🏆 **Hackathons:** Participating in hackathons, building innovative solutions, and learning through teamwork.
 
-**Key Learning Areas:**
-- 💻 Full-Stack Web Development (MERN Stack)
-- 🔧 Backend Development with Node.js & Express
-- ⚛️ Frontend UI/UX with React & Modern CSS
-- 🗄️ Database Design (MySQL, MongoDB, SQLite)
-- 🎯 Data Structures & Algorithms
-- 🌐 Networking & IoT Protocols
-- 🤖 AI/ML (Exploring with Gemini, LLMs)
+💡 **Problem Solving:** Strengthening my programming fundamentals and analytical thinking.
 
 ---
 
-## 💼 **Tech Stack**
+## 🎓 Education & Learning
 
-### **Languages**
+**Information Technology Engineering**
+
+- Building strong foundations in Data Structures and Algorithms.
+- Learning Database Management Systems, Operating Systems, and Computer Networks.
+- Exploring Full-Stack Development and modern software engineering practices.
+- Interested in AI/ML, cloud technologies, and application architecture.
+
+### Current Learning Focus
+
+- React.js and modern frontend development
+- Node.js, Express.js and backend development
+- MongoDB, PostgreSQL and database management
+- AI/LLM API integration and prompt engineering
+- System Design and Data Structures & Algorithms
+- Open-source development and collaborative workflows
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Frontend**
+### Frontend Development
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS%20Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
-### **Backend & Databases**
+### Backend & Databases
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### **Tools & Platforms**
+### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
-## 🎯 **Featured Projects**
+## 🚀 Featured Projects
 
-### 🎓 **Career Will** - Career Guidance & Test Platform
-**Full-Stack Web Application**
-- Interactive career planning platform with tests and quizzes
-- Personalized roadmaps and recommendations
-- Real-time analytics and progress tracking
-- Tech: React, Node.js, MongoDB, Tailwind CSS
-- [View Repository](https://github.com/Ayush123141/Career-will)
+### 🤖 1. NyayaPriority – AI-Powered Decision Support Platform
 
-### 📝 **TASK-MANAGER** - Smart Task Management Application  
-**MERN Stack Application**
-- Full-featured task management with analytics
-- Dark theme with smooth particle effects
-- Local storage persistence & scroll animations
-- User authentication & authorization
-- Tech: React, Express, MongoDB, CSS animations
-- [View Repository](https://github.com/Ayush123141/TASK-MANAGER)
+An AI-powered platform designed to simplify complex decision-making through intelligent analysis and structured recommendations.
 
-### 🤖 **Hand Detection System** - OpenCV Computer Vision
-**Python-based ML Project**
-- Real-time hand gesture recognition
-- Trained using OpenCV and MediaPipe
-- Application in IoT and gesture control
-- [View Repository](https://github.com/Ayush123141/)
+- Developed an interactive platform integrating AI capabilities.
+- Focused on providing context-aware decision support.
+- Worked on frontend architecture, authentication, and AI integration.
+- Built using modern web technologies and Supabase.
 
-### 💼 **Other Notable Projects**
-- **Portfolio Website** - Particle animations, modern design
-- **CEP Project** - Web development showcase
-- **Magic MCP** - 21st dev Magic server implementation
-- **Open Source Games** - Educational game collection
+**Tech Stack:** React.js, TypeScript, Supabase, PostgreSQL, TanStack Router, AI/LLM Integration.
+
+🔗 [Live Project](https://inception-accelerator.vercel.app/) | [GitHub Repository](https://github.com/Ayush123141/inception-accelerator)
+
+### 💼 2. Insight ERP – Training & Placement Management System
+
+A web-based ERP solution designed to streamline Training and Placement operations in educational institutions.
+
+- Organizes placement-related information and training activities.
+- Supports placement drives, training sessions, and weekly reports.
+- Implements automated document generation.
+- Converts structured information into professionally formatted PDF reports.
+
+**Tech Stack:** React.js, JavaScript, HTML, CSS, DOCX Processing, PDF Generation.
+
+🔗 [Live Project](https://insight-erp.vercel.app/) | [GitHub Repository](https://github.com/Ayush123141/insight-erp)
+
+### 🎵 3. SoundCrafta – E-Commerce Web Application
+
+A full-stack e-commerce application focused on providing a smooth shopping experience and order management workflow.
+
+- Developed an interactive shopping interface.
+- Implemented user authentication and database integration.
+- Integrated PayPal sandbox payment functionality.
+- Implemented order lifecycle management, from payment to delivery.
+- Used Supabase for backend services and database operations.
+
+**Tech Stack:** React.js, TypeScript, Vite, Tailwind CSS, Supabase, PostgreSQL, PayPal API, GSAP.
+
+🔗 [GitHub Repository](https://github.com/Ayush123141/soundcrafta-47672dc)
+
+### 🏏 4. TurfTogether – Sports Turf Booking Platform
+
+A web application designed to connect sports enthusiasts with turf facilities and simplify sports ground discovery and booking.
+
+- Developed a platform for cricket and football turf discovery.
+- Worked on user and turf-owner authentication flows.
+- Focused on responsive UI and user experience.
+- Integrated booking-related workflows.
+
+**Tech Stack:** Web Development, JavaScript, HTML, CSS.
+
+🔗 [GitHub Repository](https://github.com/Ayush123141/play-together-now)
+
+### 🎓 5. Career Will – Career Guidance Platform
+
+- Interactive career guidance and assessment platform.
+- Career-oriented tests, quizzes, and recommendations.
+- Designed to help users explore potential career paths.
+
+🔗 [GitHub Repository](https://github.com/Ayush123141/Career-will)
+
+### 📝 6. Task Manager – Task Management Application
+
+- Task management interface with analytics.
+- Interactive UI with animations and theme customization.
+- Focused on organizing tasks and improving productivity.
+
+🔗 [GitHub Repository](https://github.com/Ayush123141/TASK-MANAGER)
 
 ---
 
-## 📊 **GitHub Statistics**
+## 🏆 Hackathons & Achievements
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayush123141&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush123141&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/IDEAL2HACKATHON-2nd%20Runner--Up-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2025%20Finalist-blue?style=for-the-badge" />
+</div>
+
+### 🥈 NxtWave Ideal2Hackathon – 2nd Runner-Up
+
+- Secured **2nd Runner-Up (3rd Prize)** at the NxtWave Ideal2Hackathon in Hyderabad.
+- Collaborated with my teammate to develop an AI-powered decision-support solution.
+- Built and presented the project within an intensive 48-hour hackathon.
+- Gained experience in rapid prototyping, AI integration, teamwork, and problem-solving.
+
+### 🚀 Smart India Hackathon (SIH) 2025 – Finalist
+
+- Qualified as a finalist in Smart India Hackathon 2025.
+- Gained valuable experience in innovation, technical problem-solving, and collaborative development.
+
+---
+
+## 🌍 Open Source & Community
+
+I believe open-source development is one of the best ways to learn, collaborate, and build technology together.
+
+- Interested in contributing to real-world open-source projects.
+- Exploring beginner-friendly issues and collaborative development workflows.
+- Participated in the MLH Hacktoberfest community initiative.
+- Interested in working with developers, maintainers, and open-source communities.
+- Looking forward to making meaningful contributions through code, documentation, bug fixes, and feature development.
+
+**Open to:**
+- Open-source contribution opportunities
+- Hackathons and developer communities
+- Collaborative projects
+- Internship opportunities
+- Networking with fellow developers
+
+🔗 [Explore My GitHub Repositories](https://github.com/Ayush123141?tab=repositories)
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced React.js and frontend architecture
+- Node.js, Express.js and backend engineering
+- MongoDB and PostgreSQL database design
+- AI/LLM integration with modern applications
+- System Design and application scalability
+- Cloud deployment and DevOps fundamentals
+- Open-source collaboration and contribution workflows
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayush123141&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush123141&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -131,82 +239,28 @@ I specialize in **JavaScript/Node.js backend development** and **React frontend*
 
 ---
 
-## 🎓 **Currently Learning**
+## 🤝 Let's Connect & Collaborate!
 
-- ⚛️ Advanced React Patterns & Hooks (Context API, Custom Hooks)
-- 🔗 Backend Scalability & Microservices Architecture
-- 📊 System Design & LLD for large-scale applications
-- 🤖 Machine Learning & AI (Gemini API, LLMs integration)
-- 🌐 Network Protocols & IoT Development
-- 🎨 UI/UX Design Principles & Figma
-- 🏗️ DevOps & Cloud Deployment (AWS, Google Cloud)
+I'm always excited to connect with developers, explore new technologies, collaborate on interesting projects, and contribute to open-source initiatives.
 
----
-
-## 🏆 **Achievements & Highlights**
-
-- ⭐ **Active Open-Source Contributor** - Contributing to meaningful projects
-- 💡 **Problem Solver** - Strong grasp of DSA and competitive programming
-- 📚 **Continuous Learner** - Always exploring new technologies
-- 🚀 **Quick Prototyper** - Rapidly building MVP projects
-- 🎯 **Committed Developer** - Consistent GitHub contributions
-
----
-
-## 📖 **My Learning Resources & Articles**
-
-- 📝 [DSA Notes & Problem Solutions]()
-- 🎓 [Full-Stack Development Journey]()
-- 💻 [System Design Fundamentals]()
-- 🌐 [Networking & Protocols Guide]()
-- 🔗 [Open Source Contributions]()
-
----
-
-## 💬 **Let's Connect!**
+If you're building something interesting or looking for a collaborator, feel free to reach out!
 
 <div align="center">
-  <p>I'm always open to discussing web development, collaborating on projects, and connecting with fellow developers!</p>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-wadalkar)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush.wadalkar@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://portfolio.example.com)
+  <a href="https://linkedin.com/in/ayush-wadalkar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ayush123141">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://ayushjsgsap.ccbp.tech/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-## 🔗 **Quick Links**
-
 <div align="center">
-  <p>
-    <a href="https://github.com/Ayush123141?tab=repositories">📦 Explore My Repositories</a> •
-    <a href="https://github.com/Ayush123141?tab=stars">⭐ My Starred Projects</a> •
-    <a href="#">📄 My Resume</a>
-  </p>
-</div>
-
----
-
-## 🎯 **Fun Facts About Me**
-
-- 🎮 I love building interactive web experiences
-- 📚 Currently preparing for technical interviews
-- 🌟 Passionate about clean code and best practices
-- 🤝 Believe in the power of open-source collaboration
-- ☕ Coffee ☕ and coding = Perfect combination
-- 🎨 Interested in both functionality and beautiful UI/UX
-
----
-
-<div align="center">
-  <p>
-    <strong>"Code is poetry written for machines but read by humans."</strong>
-  </p>
-  
-  <p>
-    Made with ❤️ by <strong>Ayush Wadalkar</strong>
-  </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=Ayush123141&style=flat-square&color=blue" />
+  <h3>"Learn continuously. Build consistently. Contribute meaningfully."</h3>
+  <p>Made with ❤️ by <strong>Ayush Wadalkar</strong></p>
+  <img src="https://komarev.com/ghpvc/?username=Ayush123141&style=flat-square&color=blue" alt="Profile Views" />
 </div>
